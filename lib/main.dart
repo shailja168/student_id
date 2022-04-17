@@ -36,7 +36,7 @@ class _StudentCardState extends State<StudentCard> {
             child: Icon(Icons.add),
             backgroundColor: Colors.grey[800],
           ),
-          SizedBox(height: 10.0,),
+          SizedBox(height: 15.0,),
           FloatingActionButton(
             onPressed: () {
               setState(() {
